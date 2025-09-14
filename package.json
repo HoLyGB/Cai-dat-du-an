@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "nodemon server.js"
+},
   "author": "Gia Bao",
   "license": "ISC",
   "dependencies": {
@@ -17,6 +17,7 @@
     "eslint": "^9.35.0",
     "eslint-config-prettier": "^10.1.8",
     "globals": "^16.4.0",
+    "nodemon": "^3.1.10",
     "prettier": "^3.6.2"
   }
 }
