@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-  "start": "nodemon server.js"
-},
+    "start": "nodemon server.js"
+  },
   "author": "Gia Bao",
   "license": "ISC",
   "dependencies": {
